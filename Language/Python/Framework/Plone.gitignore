@@ -1,0 +1,13 @@
+*~
+*.tmp*
+*.kpf
+.*.cfg
+bin/
+build/
+develop-eggs/
+downloads/
+eggs/
+fake-eggs/
+parts/
+dist/
+var/
