@@ -18,8 +18,8 @@ def print_global
           STDOUT.puts(line)
         end
       end
+      STDOUT.puts
     end
-    STDOUT.puts
   end
 end
 
